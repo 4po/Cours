@@ -1,0 +1,3 @@
+Exercice journalier n°3 :
+
+- Consigne : Ecrire le code d'une page web pour quelle affiche un "Hello world" en noirs sur la page.
