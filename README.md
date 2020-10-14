@@ -5,7 +5,7 @@ Cours d'informatique pour Secondes / Première et Terminal
   - SQL :
     - Exo 1
 - Secondes :
-  - Python : 
+  - Python :
     - Introduction
     - Liste
     - Boucle
