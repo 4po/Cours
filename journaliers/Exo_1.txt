@@ -1,0 +1,3 @@
+Exercice journalier n°1 :
+
+- Consigne : Ecrire un programme en python qui permet d'entre une valeur dans une liste et d'afficher cette liste en question.
