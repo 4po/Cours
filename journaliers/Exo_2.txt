@@ -1,0 +1,3 @@
+Exercice journalier n°2 :
+
+- Consigne : Ecrire un programma qui affiche le 5 ème élément d'une liste qui ce remplis toute seul avec 10 éléments
