@@ -29,18 +29,19 @@ while [condition] :
 #Exemple :
 
 a = True
+compteur = 0
 while a == True :
-    compteur = 0
-    compteur = compteur + 1
     if compteur == 2
         a = False
     print(compteur)
+    compteur = compteur + 1
 #Console : 0
 #          1
 
 compteur 0
 while compteur < 2 :
     print(compteur)
+    compteur = compteur + 1
 #Console : 0
 #          1
 
