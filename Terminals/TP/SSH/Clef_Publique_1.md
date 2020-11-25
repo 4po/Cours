@@ -6,10 +6,7 @@
 ====================================
 ```
 
-**
-1) On essaye de ce connecter par ssh à la machine 10.254.0.9 :
-
-**
+**1) On essaye de ce connecter par ssh à la machine 10.254.0.9 :**
 
 ```
 $ssh 10.254.0.9
