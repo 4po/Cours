@@ -14,11 +14,9 @@ capteur@10.254.0.9's password:
 Permission denied, please try again.
 ```
 
-**
-Malheureusement il nous faut un mot de passe.
+**Malheureusement il nous faut un mot de passe.
 
-On nous donne le noms et le mot de passe de la machine :
-**
+On nous donne le noms et le mot de passe de la machine :**
 
 ```
 pi@10.254.0.9's password:
