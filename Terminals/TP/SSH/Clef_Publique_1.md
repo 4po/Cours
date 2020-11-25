@@ -133,3 +133,7 @@ Et voilà nous avons nos composant d'affichié.
 4) On vas utilisé htop pour voir les processus en cours :
 
 <a href="https://ibb.co/jgCfZXP"><img src="https://i.ibb.co/pJHwrFB/Capture-du-2020-11-25-09-23-20.png" alt="Capture-du-2020-11-25-09-23-20" border="0"></a>
+
+5) Nous avons déjà fais le apt on veut donc tester quelle que commande générique :
+
+
