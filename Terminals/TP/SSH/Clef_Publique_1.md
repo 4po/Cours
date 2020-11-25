@@ -95,7 +95,7 @@ Last login: Fri Nov 20 18:05:06 2020 from 10.23.19.4
 pi@Rjardin21:~ $ sudo mv apt.conf /etc/apt/
 ```
 
-**Enfin, le fichié et a la bonne place on vas donc installer néofetch : **
+**Enfin, le fichié et a la bonne place on vas donc installer néofetch :**
 
 ```bash
 pi@Rjardin21:~ $ sudo apt install neofetch 
