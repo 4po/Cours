@@ -37,7 +37,7 @@ pi@Rjardin21:~ $
 
 **2) On vas essayer de faire en sorte de ce connecter sans mot de passe :**
 
-```bash
+```markdown
 capteur@l-2-319-04:~$ ssh-copy-id -i .ssh/id_rsa.pub pi@10.254.0.9
 /usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: ".ssh/id_rsa.pub"
 /usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
