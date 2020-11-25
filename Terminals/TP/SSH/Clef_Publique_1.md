@@ -1,8 +1,10 @@
+```
 ====================================
 +                                  +
 +      Compte rendus : 0xE         +
 +                                  +
 ====================================
+```
 
 1) On essaye dee ce connecter par ssh à la machine 10.254.0.9 :
 
