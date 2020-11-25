@@ -49,6 +49,27 @@ Number of key(s) added: 1
 Now try logging into the machine, with:   "ssh 'pi@10.254.0.9'"
 and check to make sure that only the key(s) you wanted were added.
 ```
+**On est donc connecté sans mot de passe** 
+**Nous allons donc chercher des information sur le réseau de cette machine :**
+
+```
+capteur@l-2-319-04:~$ip a 
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000
+    link/ether d8:cb:8a:82:87:98 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+    link/ether b4:6d:83:d8:ca:c0 brd ff:ff:ff:ff:ff:ff
+    inet 10.254.0.9/8 brd 10.254.255.255 scope global dynamic noprefixroute wlan0
+       valid_lft 2930sec preferred_lft 2930sec
+    inet6 fe80::2cae:c43f:709a:83ea/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+
+```
 
 **Nous avons donc ici le masque (255.255.0.0 (Notation CIDR '/8')) et l'adresse Ip (10.254.0.9).**
 
