@@ -63,7 +63,7 @@ Destination     Passerelle      Genmask         Indic Metric Ref    Use Iface
 
 **0.0.0.0 ici on ne connais donc pas la passerelle on passe par un proxy.**
 
-**3) On veut maintenant installer des paquest apt sur la machine on fais donc :**
+**3) On veut maintenant installer des paquets apt sur la machine on fais donc :**
 
 ```bash
 capteur@l-2-319-04:~$ scp /etc/apt/apt.conf pi@10.254.0.9:/etc/apt
